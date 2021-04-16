@@ -61,10 +61,6 @@ console.log(id1, id2)
 
 // for (let key in user) alert(key);
 
-// let clone = Object.assign({}, user);
-// let clone = { ...user };
-// alert(user[id])
-
 
 //Global Symboles
 
