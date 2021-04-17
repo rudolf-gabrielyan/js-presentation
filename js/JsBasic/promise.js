@@ -44,6 +44,10 @@ const user2 = new Promise(function(resolve, reject) {
 //     console.log(res);
 // })
 
+// Promise.race(requests).then(res => {
+//     console.log(res);
+// })
+
 // Promise.allSettled(requests).then(res => {
 //     console.log(res);
 // })
